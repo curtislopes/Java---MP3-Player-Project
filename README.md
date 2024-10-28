@@ -9,7 +9,7 @@ Functionality:
 -Load mp3 files
 -Generate a playlist of mp3 files
 -load playlist
--Displays Artis Name and Tile of Song
+-Displays Artist's Name and Title of Song
 -Play
 -Pause
 -Play previous song
